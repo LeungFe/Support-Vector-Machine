@@ -43,6 +43,7 @@
 把（2.2）和（2.3）代入（2.1），整理得到对偶问题
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\max&space;_{\alpha}\sum_{i=1}^{m}\alpha&space;_{i}-\frac{1}{2}\sum_{i=1}^{m}\sum_{j=1}^{m}\alpha&space;_{i}\alpha&space;_{j}y_{i}y_{j}x_{i}^{T}x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\max&space;_{\alpha}\sum_{i=1}^{m}\alpha&space;_{i}-\frac{1}{2}\sum_{i=1}^{m}\sum_{j=1}^{m}\alpha&space;_{i}\alpha&space;_{j}y_{i}y_{j}x_{i}^{T}x_{j}" title="\max _{\alpha}\sum_{i=1}^{m}\alpha _{i}-\frac{1}{2}\sum_{i=1}^{m}\sum_{j=1}^{m}\alpha _{i}\alpha _{j}y_{i}y_{j}x_{i}^{T}x_{j}" /></a>
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=s.t.\sum_{i=1}^{m}=0,\alpha_{i}\geq&space;0,i=1,2,...,m(2.4)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s.t.\sum_{i=1}^{m}=0,\alpha_{i}\geq&space;0,i=1,2,...,m(2.4)" title="s.t.\sum_{i=1}^{m}=0,\alpha_{i}\geq 0,i=1,2,...,m(2.4)" /></a>
 
 解出<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha" title="\alpha" /></a>，求出<a href="https://www.codecogs.com/eqnedit.php?latex=\omega" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega" title="\omega" /></a>和b即可得到模型：
