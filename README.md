@@ -119,6 +119,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=\omega=\sum_{i=1}^{m}\alpha_{i}y_{i}x_{i}\qued\quad(4.4)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega=\sum_{i=1}^{m}\alpha_{i}y_{i}x_{i}\qued\quad(4.4)" title="\omega=\sum_{i=1}^{m}\alpha_{i}y_{i}x_{i}\qued\quad(4.4)" /></a>
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i=1}^{m}\alpha_{i}y_{i}=0\qued\quad(4.5)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i=1}^{m}\alpha_{i}y_{i}=0\qued\quad(4.5)" title="\sum_{i=1}^{m}\alpha_{i}y_{i}=0\qued\quad(4.5)" /></a>
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\alpha_{i}&plus;\mu_{i}=C\qued\quad(4.6)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha_{i}&plus;\mu_{i}=C\qued\quad(4.6)" title="\alpha_{i}+\mu_{i}=C\qued\quad(4.6)" /></a>
 
 将（4.4）-（4.6）带入（4.3）得到对偶问题：
