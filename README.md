@@ -37,6 +37,7 @@
 其中<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha=(\alpha_{1},\alpha_{2},...,\alpha_{m})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha=(\alpha_{1},\alpha_{2},...,\alpha_{m})" title="\alpha=(\alpha_{1},\alpha_{2},...,\alpha_{m})" /></a>，令<a href="https://www.codecogs.com/eqnedit.php?latex=L(\omega,b,\alpha)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L(\omega,b,\alpha)" title="L(\omega,b,\alpha)" /></a>对<a href="https://www.codecogs.com/eqnedit.php?latex=\omega" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega" title="\omega" /></a>和b的偏导为0，得
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;=\sum_{i=1}^{m}\alpha&space;_{i}y_{i}x_{i}(2.2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega&space;=\sum_{i=1}^{m}\alpha&space;_{i}y_{i}x_{i}(2.2)" title="\omega =\sum_{i=1}^{m}\alpha _{i}y_{i}x_{i}(2.2)" /></a>
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i=1}^{m}\alpha&space;_{i}y_{i}=0\left&space;(&space;2.3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i=1}^{m}\alpha&space;_{i}y_{i}=0\left&space;(&space;2.3&space;\right&space;)" title="\sum_{i=1}^{m}\alpha _{i}y_{i}=0\left ( 2.3 \right )" /></a>
 
 把（2.2）和（2.3）代入（2.1），整理得到对偶问题
