@@ -117,6 +117,7 @@
 其中，<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha_{i}\geq&space;0,\mu_{i}\geq&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha_{i}\geq&space;0,\mu_{i}\geq&space;0" title="\alpha_{i}\geq 0,\mu_{i}\geq 0" /></a>是拉格朗日乘子。令拉格朗日函数对<a href="https://www.codecogs.com/eqnedit.php?latex=\omega,b,\xi_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega,b,\xi_{i}" title="\omega,b,\xi_{i}" /></a>的偏导为0，得
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\omega=\sum_{i=1}^{m}\alpha_{i}y_{i}x_{i}\qued\quad(4.4)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega=\sum_{i=1}^{m}\alpha_{i}y_{i}x_{i}\qued\quad(4.4)" title="\omega=\sum_{i=1}^{m}\alpha_{i}y_{i}x_{i}\qued\quad(4.4)" /></a>
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i=1}^{m}\alpha_{i}y_{i}=0\qued\quad(4.5)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i=1}^{m}\alpha_{i}y_{i}=0\qued\quad(4.5)" title="\sum_{i=1}^{m}\alpha_{i}y_{i}=0\qued\quad(4.5)" /></a>
 <a href="https://www.codecogs.com/eqnedit.php?latex=\alpha_{i}&plus;\mu_{i}=C\qued\quad(4.6)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha_{i}&plus;\mu_{i}=C\qued\quad(4.6)" title="\alpha_{i}+\mu_{i}=C\qued\quad(4.6)" /></a>
 
